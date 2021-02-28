@@ -1,5 +1,6 @@
 # :bomb: High
 ## Modern Denial-of-service ToolKit
+## Derivation of Quack
 
 # :satellite: Methods:
 | Method               |   Target   | Description |
