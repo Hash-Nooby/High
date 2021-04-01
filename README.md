@@ -28,7 +28,7 @@
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/Hash-Nooby/High`
+  * `git clone https://github.com/hashs3c/High`
   * `cd High/`
   * `pip3 install -r requirements.txt`
   * `python3 high.py --help`
@@ -36,7 +36,7 @@
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/Hash-Nooby/High`
+  * `git clone https://github.com/hashs3c/High`
   * `cd High/`
   * `pip3 install -r requirements.txt`
   * `python3 high.py --help`
